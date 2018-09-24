@@ -38,6 +38,6 @@ public class Lab00
          if (s.charAt(i) == c)
             count++;
       }
-   return count;
+      return count;
    }
 }
